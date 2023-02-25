@@ -16,8 +16,12 @@ Anyways, to the important bits:
     - "Jack of all trades, master of none"
 - I really want to travel to Japan
 
-# Note-worthy
-1. Finished intership in JW Mariott
+# Fun fact
+1. Finished internship in JW Mariott hotel
+2. Acted as Liaison Officer for the PrepCom III UN HABITAT held in Surabaya
+3. Just few months before coming to Taiwan, I was hired as HR trainer for Madame Chang restaurant
+
+## __THAT'S A WRAP!!!__ _Tbc_
 
 <!--
 **shuying20/shuying20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
