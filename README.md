@@ -5,7 +5,7 @@
 ## __!! Introduction Coming Up !!__
 Born on August 20,1999 as a proud Indonesian in a beautiful city called Surabaya. The oldest among 3 siblings, I have the privilege to order my little brother and sister around haha 😂, just kidding...or am I? Both my parents work so I've learnt to handle the household from early age. My family isn't the best for sure, but to me, they are my foundation.
 ![myself](image/IMG_20210628_170757.jpg)
-a
+
 
 Anyways, to the important bits:
 
