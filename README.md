@@ -1,25 +1,29 @@
-# Ola! 初めまして！你好 👋 🐰
-
+# Ola! 初めまして！你好 👋 
 ## Call me ___Aurel___, 叫***淑櫻***也可以🌸
-
+Welcome to my GitHub profile!
 ## __!! Introduction Coming Up !!__
-Born on August 20,1999 as a proud Indonesian in a beautiful city called Surabaya. The oldest among 3 siblings, I have the privilege to order my little brother and sister around haha 😂, just kidding...or am I? Both my parents work so I've learnt to handle the household from early age. My family isn't the best for sure, but to me, they are my foundation.
-![myself](image/IMG_20210628_170757.jpg)
+Born on August 20,1999 as a proud Indonesian in a beautiful city called Surabaya. 
+
+I have lots of interest in different fields, so I like to learn on any topics that interest me. Reading has been my one true hobby since forever, it could be anything; psychology, novels, baking, architecture, solar system, and much more.
+
+<img src="image/IMG_20210628_170757.jpg" style="display: inline-block; margin: 0 auto; alignment: center; max-width: 220px; max-height: 250px">
 
 
-Anyways, to the important bits:
+> Anyways, to the important bits:
 
 - Currently a GMBA student in Tunghai University, Taiwan 
 - Majored in Hospitality Management for Bachelor's degree
-    - I like to observe human behaviour, hence my interest in psychology and service industry
+    - Human behaviour facinates me, thus I chose service industry
+
 - I'm pretty good at learning language and culture, some martial arts, some skills in public speaking here and there...
     - "Jack of all trades, master of none"
 - I really want to travel to Japan
 
-# Fun fact
-1. Finished internship in JW Mariott hotel
+# Fun fact...
+1. Finished internship in JW Mariott hotel as an executive lounge officer
 2. Acted as Liaison Officer for the PrepCom III UN HABITAT held in Surabaya
 3. Just few months before coming to Taiwan, I was hired as HR trainer for Madame Chang restaurant
+4. Now, I want to improve my Chinese so that I can find work in Taiwan after I graduate 
 
 ## __THAT'S A WRAP!!!__ _Tbc_
 
