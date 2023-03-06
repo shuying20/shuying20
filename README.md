@@ -6,7 +6,7 @@ Born on August 20,1999 as a proud Indonesian in a beautiful city called Surabaya
 
 I have lots of interest in different fields, so I like to learn on any topics that interest me. Reading has been my one true hobby since forever, it could be anything; psychology, novels, baking, architecture, solar system, and much more.
 
-<img src="image/IMG_20210628_170757.jpg" style="display: inline-block; margin: 0 auto; alignment: center; max-width: 80px">
+<img src="image/IMG_20210628_170757.jpg" style="display: inline-block; margin: 0 auto; alignment: center; max-width: 120px">
 
 
 > Anyways, to the important bits:
